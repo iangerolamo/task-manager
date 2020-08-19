@@ -73,7 +73,7 @@ function ListarTarefas() {
 
     return (
       <div className="text-center">
-        <h3>Tarefas a fazer</h3>
+        <h3>Tarefas a fazer hoje</h3>
           <Table striped bordered hover responsive>
             <thead>
                 <tr>
