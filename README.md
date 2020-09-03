@@ -4,7 +4,7 @@
 
 ## :rocket: Technologies
 
-This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
+This project was developed at the Aprenda o novo React com Hooks criando 8 projetos práticos (https://www.udemy.com/course/aprenda-react-hooks-8-projetos-praticos/) with the following technologies:
 
 -  [ReactJS](https://reactjs.org/)
 -  [React-Icons](https://react-icons.netlify.com/)
