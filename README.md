@@ -1,11 +1,7 @@
-<h1 align="center">
-    <img alt="React RocketShoes" src="https://res.cloudinary.com/lukemorales/image/upload/v1562696000/readme_logos/react-rocketshoes_jy1lze.png" />
-    <br>
-    React RocketShoes
-</h1>
+
 
 <h4 align="center">
-  NetShoes Clone App with React and Redux.
+  Task Manager App with React and Redux.
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lukemorales/react-rocketshoes.svg">
@@ -32,13 +28,6 @@
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
-</p>
-
-![App Screenshot](https://res.cloudinary.com/lukemorales/image/upload/v1563042321/readme_logos/rocketshoes_readme_swvhr9.png)
-<p align="center">
-  <a href="https://rocketshoes.netlify.com/" target="_blank">
-    <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
-  </a>
 </p>
 
 ## :rocket: Technologies
