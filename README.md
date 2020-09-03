@@ -1,45 +1,9 @@
 
-
-<h4 align="center">
-  Task Manager App with React and Redux.
-</h4>
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lukemorales/react-rocketshoes.svg">
-
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lukemorales/react-rocketshoes.svg">
-
-  <a href="https://www.codacy.com/app/lukemorales/react-rocketshoes?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lukemorales/react-rocketshoes&amp;utm_campaign=Badge_Grade">
-    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/1b577a07dda843aba09f4bc55d1af8fc.svg">
-  </a>
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lukemorales/react-rocketshoes.svg">
-  <a href="https://github.com/lukemorales/react-rocketshoes/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lukemorales/react-rocketshoes.svg">
-  </a>
-
-  <a href="https://github.com/lukemorales/react-rocketshoes/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/lukemorales/react-rocketshoes.svg">
-  </a>
-
-  <img alt="GitHub" src="https://img.shields.io/github/license/lukemorales/react-rocketshoes.svg">
-</p>
-
-<p align="center">
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
-</p>
-
 ## :rocket: Technologies
 
 This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
 -  [ReactJS](https://reactjs.org/)
--  [Redux](https://redux.js.org/)
--  [Redux-Saga](https://redux-saga.js.org/)
--  [React Router v4](https://github.com/ReactTraining/react-router)
--  [Axios](https://github.com/axios/axios)
--  [styled-components](https://www.styled-components.com/)
 -  [React-Icons](https://react-icons.netlify.com/)
 -  [json-server](https://github.com/typicode/json-server)
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
@@ -50,10 +14,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/lukemorales/react-rocketshoes
+$ git clone https://github.com/iangerolamo/task-manager.git
 
 # Go into the repository
-$ cd react-rocketshoes
+$ cd task-manager
 
 # Install dependencies
 $ yarn install
