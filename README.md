@@ -39,16 +39,9 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 -  [Redux-Saga](https://redux-saga.js.org/)
 -  [React Router v4](https://github.com/ReactTraining/react-router)
 -  [Axios](https://github.com/axios/axios)
--  [History](https://www.npmjs.com/package/history)
--  [Immer](https://github.com/immerjs/immer)
--  [Polished](https://polished.js.org/)
--  [React-Toastify](https://fkhadra.github.io/react-toastify/)
 -  [styled-components](https://www.styled-components.com/)
 -  [React-Icons](https://react-icons.netlify.com/)
--  [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton)
--  [react-loader-spinner](https://github.com/mhnpd/react-loader-spinner)
 -  [json-server](https://github.com/typicode/json-server)
--  [Reactotron](https://infinite.red/reactotron)
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 ## :information_source: How To Use
@@ -74,7 +67,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/luke
 
 ---
 
-Made with ♥ by Luke Morales :wave: [Get in touch!](https://www.linkedin.com/in/lukemorales/)
+Made with ♥ by Ian Gerolamo :wave: [Get in touch!](https://www.linkedin.com/in/ian-gerolamo-780bb163/)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
