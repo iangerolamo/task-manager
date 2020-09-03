@@ -1,3 +1,6 @@
+![task-manager](https://user-images.githubusercontent.com/67077374/92115661-2567f200-edc9-11ea-8697-23af5c5d6c05.PNG)
+
+
 
 ## :rocket: Technologies
 
